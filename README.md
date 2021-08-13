@@ -27,6 +27,7 @@ Knowledge Graphs can help provide meaningful and consise insights into our data.
 ### References
 [[1] What is a Knowledge Graph?](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) <br />
 [[2] Knowledge Graphs](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/) <br />
-[[3] Coreference Resolution](https://nlp.stanford.edu/projects/coref.shtml) <br />
-[[4] Wikipedia API](https://towardsdatascience.com/wikipedia-api-for-python-241cfae09f1c) <br />
-[[5] NetworkX](https://networkx.org/documentation/stable/tutorial.html) <br />
+[[3] Graph Theory for Machine Learning](https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b) <br />
+[[4] Coreference Resolution](https://nlp.stanford.edu/projects/coref.shtml) <br />
+[[5] Wikipedia API](https://towardsdatascience.com/wikipedia-api-for-python-241cfae09f1c) <br />
+[[6] NetworkX](https://networkx.org/documentation/stable/tutorial.html) <br />
